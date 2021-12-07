@@ -1,6 +1,6 @@
 # Ozdilekyim-App-Test-Automation
 
- REQUIREMENTS:
+**** REQUIREMENTS:****
  
 - The project must be written in the Java programming language.
 - Appium and Gauge should be used for the script to be written.
@@ -9,7 +9,7 @@
 - Page object model implementation
 - Application of OOP principles
 
-ÖZDİLEK FAVORITE PRODUCT SCENARIO
+**ÖZDİLEK FAVORITE PRODUCT SCENARIO**
 
 -“I'm in Özdilek” application opens
 - Check that the application is opened
@@ -30,7 +30,8 @@
 - a random product is selected.
 - The selected product is added to the cart
 
-EXPECTED RESULT:
+**EXPECTED RESULT:**
+
 - Application expansion,
 - Controls
 - Click controls,
@@ -40,10 +41,11 @@ EXPECTED RESULT:
 - Scroll methods
 - Log4j usage,
 
-REAL RESULT:
+**REAL RESULT:**
+
 - All expected results met. The test is successful.
 
-ENVİRONMENT İNFORMATİON
+**ENVİRONMENT İNFORMATİON**
 
 Screen Resolution: 1920x1080
 Font Size: 100%
