@@ -17,6 +17,7 @@ public class RunAppPage {
     }
 
 
+
     public boolean isRun()  {
         WebElement splashElement= driver.findElement(By.id(SPLASH_PAGE_ID));
         return splashElement.isDisplayed();
