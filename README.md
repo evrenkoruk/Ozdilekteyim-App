@@ -11,7 +11,7 @@
 
 **ÖZDİLEK FAVORITE PRODUCT SCENARIO**
 
--“Özdilekteyim” application opens
+- “Özdilekteyim” application opens
 - Check that the application is opened
 - Click on start shopping button
 - It is verified that the shopping page is opened
