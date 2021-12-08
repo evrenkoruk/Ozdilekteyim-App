@@ -1,6 +1,6 @@
 # Ozdilekyim-App-Test-Automation
 
-**** REQUIREMENTS:****
+**REQUIREMENTS**
  
 - The project must be written in the Java programming language.
 - Appium and Gauge should be used for the script to be written.
@@ -11,7 +11,7 @@
 
 **ÖZDİLEK FAVORITE PRODUCT SCENARIO**
 
--“I'm in Özdilek” application opens
+-“Özdilekteyim” application opens
 - Check that the application is opened
 - Click on start shopping button
 - It is verified that the shopping page is opened
