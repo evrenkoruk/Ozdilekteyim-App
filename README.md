@@ -47,9 +47,9 @@
 
 **ENVİRONMENT İNFORMATİON**
 
-Screen Resolution: 1920x1080
-Font Size: 100%
-Operating System: Emulator 5554
-Browser: Chrome
-IDE: IntelliJ, Appium,Android studio, Appium inspector
-Driver used: Android Driver
+- Screen Resolution: 1920x1080
+- Font Size: 100%
+- Operating System: Emulator 5554
+- Browser: Chrome
+- IDE: IntelliJ, Appium,Android studio, Appium inspector
+- Driver used: Android Driver
