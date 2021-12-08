@@ -50,6 +50,6 @@
 - Screen Resolution: 1920x1080
 - Font Size: 100%
 - Operating System: Emulator 5554
-- Browser: Chrome
+- Browser: Android App
 - IDE: IntelliJ, Appium,Android studio, Appium inspector
 - Driver used: Android Driver
